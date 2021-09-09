@@ -16,7 +16,7 @@ Marque esse projeto com uma estrela 🌟
     - [] Deve receber stream de arquivos e salvar em disco 
     - [] Deve notificar sobre progresso de armazenamento de arquivos em disco 
     - [] Deve permitir upload de arquivos em formato image, video ou audio
-    - [] Deve atingir 100% de cobertura de código em testes
+    - [] Deve atingir 100% de cobertura de código em testes -- reading
 
 - Web App 
     - [] Deve listar arquivos baixados
